@@ -11,10 +11,11 @@ border-left: 20%;
 }
 #ima1 {width: 22%;
 }
- .fig1 {background-color: rgb(241, 152, 34);
+ .fig1 {background-color: rgb(233, 144, 28);
     border-style: inset;
-    border-color: rgb(255, 106, 0);
+    border-color: rgb(235, 99, 1);
     border-width: 5px;
 }
 #ima1 {margin-right: 5%;
 }
+#ima1 {left: 5px;}
