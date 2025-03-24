@@ -4,14 +4,14 @@ body{background-color: rgba(204, 105, 24, 0.74);
 font-size: 110%;
 color: bisque;
 }
-.part1{border-color: rgb(255, 106, 0);
+.part1{border-color: rgb(255, 228, 196);
 border-style: outset;
-border-width: 5px;
+border-width: 4px;
 border-left: 20%;
 }
-#ima1 {width: 22%;
+#ima1 {width: 23%;
 }
- .fig1 {background-color: rgb(226, 140, 28);
+ .fig1 {background-color: rgb(221, 137, 27);
     border-style: inset;
     border-color: rgb(235, 99, 1);
     border-width: 5px;
