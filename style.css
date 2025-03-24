@@ -1,4 +1,4 @@
-body{background-color: rgb(240, 149, 38);
+body{background-color: rgba(240, 149, 38, 0.74);
 }
 .part1 { text-align: center;
 font-size: 110%;
@@ -11,7 +11,7 @@ border-left: 20%;
 }
 #ima1 {width: 22%;
 }
- .fig1 {background-color: burlywood;
+ .fig1 {background-color: rgb(241, 152, 34);
     border-style: inset;
     border-color: rgb(255, 106, 0);
     border-width: 5px;
